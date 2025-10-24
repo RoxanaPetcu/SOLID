@@ -63,7 +63,7 @@ With the seeds ready, the next step involves generating an ice breaker to kickst
 
 1. **Background Document Generation**: Following insights from prior research, this step involves asking the LLM to create a document about the entity. This adds depth to the dialog and improves its quality.
    
-2. **Conversation Starter**: With the entity type, attributes, name, and background document in hand, the LLM generates the first line of the conversation.
+2. **Conversation Starter**: With the entity type, attributes, name, and background document in hand, the LLM will generate the first line of the conversation.
 
 ### Step 3: Intent-Aware Dialogs
 
